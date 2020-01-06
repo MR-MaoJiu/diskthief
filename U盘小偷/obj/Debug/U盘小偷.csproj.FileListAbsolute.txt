@@ -1,0 +1,15 @@
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.exe.config
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.exe
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.pdb
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.Form1.resources
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.Properties.Resources.resources
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.csproj.GenerateResource.cache
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.csproj.CoreCompileInputs.cache
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.exe
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.pdb
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.exe.manifest
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.application
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.exe.manifest
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\obj\Debug\U盘小偷.application
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.exe.CodeAnalysisLog.xml
+F:\project\C#\C#窗体程序\U盘小偷\U盘小偷\bin\Debug\U盘小偷.exe.lastcodeanalysissucceeded
